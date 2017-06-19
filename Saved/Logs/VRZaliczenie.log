@@ -1522,3 +1522,65 @@ LogInit: Object subsystem initialized
 [2017.06.19-08.38.31:739][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2017.06.19-08.38.32:240][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
 [2017.06.19-08.38.32:741][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.33:242][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.33:742][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.34:242][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.34:743][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.35:243][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.35:743][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.36:245][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.36:745][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.37:245][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.37:747][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.38:247][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.38:747][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.39:247][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.39:748][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.40:249][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.40:749][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.41:250][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.41:751][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.42:251][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.42:753][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.43:253][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.43:753][421]LogHttp:Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: request failed, libcurl error: 35 (SSL connect error)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 0 (Connection 24 seems to be dead!)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 1 (Closing connection 24)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 3 (  Trying 54.164.193.73...)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (54.164.193.73) port 443 (#25))
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 7 (SSL re-using session ID)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 9 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.06.19-08.38.44:254][421]LogHttp:Warning: 0000020A19988700: libcurl info message cache 10 (Closing connection 25)
+[2017.06.19-08.38.44:254][421]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.06.19-08.38.44:755][421]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.06.19-08.38.45:256][421]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20a04f1bfe8 [serially])
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 2 (  Trying 54.164.193.73...)
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 3 (connect to 54.164.193.73 port 443 failed: Timed out)
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.06.19-08.38.45:757][421]LogHttp:Warning: 0000020A37E57280: libcurl info message cache 5 (Closing connection 26)
+[2017.06.19-08.38.45:766][421]LogModuleManager: Shutting down and abandoning module SSL (34)
+[2017.06.19-08.38.45:769][421]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.06.19-08.38.46:148][421]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.06.19-08.38.46:151][421]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.06.19-08.38.46:151][421]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.06.19-08.38.46:151][421]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.06.19-08.38.46:169][421]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.06.19-08.38.46:194][421]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.06.19-08.38.46:206][421]LogExit: Exiting.
+[2017.06.19-08.38.46:209][421]Log file closed, 06/19/17 10:38:46
